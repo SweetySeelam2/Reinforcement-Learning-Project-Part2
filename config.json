@@ -1,0 +1,1 @@
+{"steps":200000,"seeds":[0,1,2],"lambdas":[0.95,0.0],"rollout":2048,"minibatch":64,"epochs":10,"gamma":0.99,"clip":0.2,"lr":0.0003,"value_coef":0.5,"entropy_coef":0.01,"max_grad":0.5}

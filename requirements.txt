@@ -1,0 +1,8 @@
+torch==2.14.1
+gymnasium[mujoco]==1.4.0
+mujoco==3.15.0
+numpy>=1.26,<3
+matplotlib>=3.8,<4
+imageio>=2.34,<3
+imageio-ffmpeg>=0.5,<1
+Pillow>=10,<13
