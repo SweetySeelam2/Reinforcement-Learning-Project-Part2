@@ -1,0 +1,710 @@
+{
+  "summary": {
+    "return_": -11.778990666943706,
+    "distance": 0.23557859318037352,
+    "effort": 0.0,
+    "success": 0.0
+  },
+  "episodes": [
+    {
+      "episode_seed": 20000,
+      "return_": -9.992274760379008,
+      "distance": 0.19961786358603606,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20001,
+      "return_": -9.50039490807274,
+      "distance": 0.19005145106684412,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20002,
+      "return_": -18.193656283864094,
+      "distance": 0.3638787652894385,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20003,
+      "return_": -17.393687634273373,
+      "distance": 0.34788736578635004,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20004,
+      "return_": -7.410190123765412,
+      "distance": 0.14833968690953203,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20005,
+      "return_": -7.667894257682743,
+      "distance": 0.15344784411470408,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20006,
+      "return_": -17.978369380303935,
+      "distance": 0.3595152017379565,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20007,
+      "return_": -14.560215513528847,
+      "distance": 0.29118736711266324,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20008,
+      "return_": -10.820423567744461,
+      "distance": 0.216396305046056,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20009,
+      "return_": -17.531988262556286,
+      "distance": 0.35052767173097943,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20010,
+      "return_": -17.800870742665005,
+      "distance": 0.3560000052741256,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20011,
+      "return_": -14.51143496539095,
+      "distance": 0.2902325502383763,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20012,
+      "return_": -13.669973731372792,
+      "distance": 0.2734066090225571,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20013,
+      "return_": -17.91411940481319,
+      "distance": 0.3582902119865555,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20014,
+      "return_": -9.606675323717022,
+      "distance": 0.1922143013661389,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20015,
+      "return_": -9.100379301832659,
+      "distance": 0.18220321518115462,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20016,
+      "return_": -18.71375832277132,
+      "distance": 0.374248651428443,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20017,
+      "return_": -7.103932234414086,
+      "distance": 0.14191756130385536,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20018,
+      "return_": -6.045598003907498,
+      "distance": 0.12084099968233104,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20019,
+      "return_": -7.32600099000953,
+      "distance": 0.14658875021424916,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20020,
+      "return_": -19.434225200003915,
+      "distance": 0.38868443367217165,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20021,
+      "return_": -11.574276305522222,
+      "distance": 0.23140081883820635,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20022,
+      "return_": -15.743365375163037,
+      "distance": 0.31479536574963374,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20023,
+      "return_": -11.676762608766174,
+      "distance": 0.23372987002255147,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20024,
+      "return_": -2.092915961403862,
+      "distance": 0.04192612692475039,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20025,
+      "return_": -7.486370454704746,
+      "distance": 0.14968554073850204,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20026,
+      "return_": -9.214210139963402,
+      "distance": 0.1842563691730346,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20027,
+      "return_": -14.674113033509203,
+      "distance": 0.2934158574257349,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20028,
+      "return_": -10.845805273944215,
+      "distance": 0.21689823588048457,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20029,
+      "return_": -12.49106852767134,
+      "distance": 0.24977847716847523,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20030,
+      "return_": -19.89022074506463,
+      "distance": 0.3978593358268124,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20031,
+      "return_": -3.245333852273524,
+      "distance": 0.06493578498676639,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20032,
+      "return_": -14.00074193120957,
+      "distance": 0.2799270155463878,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20033,
+      "return_": -18.772930259978224,
+      "distance": 0.3754594453021047,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20034,
+      "return_": -11.816867912541854,
+      "distance": 0.2363298290582061,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20035,
+      "return_": -12.107034976513955,
+      "distance": 0.24213831910138076,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20036,
+      "return_": -11.874593274829634,
+      "distance": 0.2374677141412958,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20037,
+      "return_": -12.345578698687188,
+      "distance": 0.24700289625941832,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20038,
+      "return_": -11.13874974828706,
+      "distance": 0.22288042883352902,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20039,
+      "return_": -15.400769599949273,
+      "distance": 0.30801278334030474,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20040,
+      "return_": -15.800429903736852,
+      "distance": 0.3159985407047141,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20041,
+      "return_": -5.966120154373122,
+      "distance": 0.11935223159676187,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20042,
+      "return_": -12.481060040844522,
+      "distance": 0.2496551254090126,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20043,
+      "return_": -15.549808275447896,
+      "distance": 0.3109944272332285,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20044,
+      "return_": -15.418760130108536,
+      "distance": 0.3084361210637222,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20045,
+      "return_": -6.123718619023746,
+      "distance": 0.12247663466096173,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20046,
+      "return_": -11.228139008670327,
+      "distance": 0.2244490442915708,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20047,
+      "return_": -2.731060834162918,
+      "distance": 0.05455627112695625,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20048,
+      "return_": -13.812889186207213,
+      "distance": 0.276195065517094,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20049,
+      "return_": -12.403875067433964,
+      "distance": 0.24813512309039648,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20050,
+      "return_": -16.616516346779964,
+      "distance": 0.33232935537043573,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20051,
+      "return_": -7.384400956307621,
+      "distance": 0.14781512962600557,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20052,
+      "return_": -7.196871906052326,
+      "distance": 0.14391476329920502,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20053,
+      "return_": -7.619128160194617,
+      "distance": 0.15239712981364817,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20054,
+      "return_": -3.70170492079619,
+      "distance": 0.07404134360962514,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20055,
+      "return_": -19.106680938810726,
+      "distance": 0.38213855553999027,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20056,
+      "return_": -7.536262970467629,
+      "distance": 0.15052325967333766,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20057,
+      "return_": -8.691818629400194,
+      "distance": 0.17370747853567806,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20058,
+      "return_": -10.632643009603795,
+      "distance": 0.2126311272282663,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20059,
+      "return_": -15.506426538804785,
+      "distance": 0.3100847845074844,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20060,
+      "return_": -15.675472883168728,
+      "distance": 0.31357359344350055,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20061,
+      "return_": -16.33037999339066,
+      "distance": 0.3266115398332089,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20062,
+      "return_": -17.125615179350653,
+      "distance": 0.3424536809289743,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20063,
+      "return_": -10.209426605612613,
+      "distance": 0.2041445322571997,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20064,
+      "return_": -7.910529338346368,
+      "distance": 0.15836546455275569,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20065,
+      "return_": -2.8164331832798886,
+      "distance": 0.056192089601176866,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20066,
+      "return_": -11.854230076864862,
+      "distance": 0.23714260316899033,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20067,
+      "return_": -13.779409819004213,
+      "distance": 0.27558840377558264,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20068,
+      "return_": -15.454730426463431,
+      "distance": 0.30922756363006243,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20069,
+      "return_": -15.152504725037568,
+      "distance": 0.3030208986811948,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20070,
+      "return_": -12.666165816832903,
+      "distance": 0.2533120897473349,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20071,
+      "return_": -7.75851447898976,
+      "distance": 0.1550512537574244,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20072,
+      "return_": -7.725307359931791,
+      "distance": 0.1547363549479352,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20073,
+      "return_": -4.071534349176934,
+      "distance": 0.08131768672062502,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20074,
+      "return_": -10.603484338700081,
+      "distance": 0.21210487505109313,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20075,
+      "return_": -13.73602154715112,
+      "distance": 0.27471795002126315,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20076,
+      "return_": -6.122943724849512,
+      "distance": 0.12236209192019484,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20077,
+      "return_": -12.33409205430138,
+      "distance": 0.2466914631309803,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20078,
+      "return_": -16.04693681785642,
+      "distance": 0.3208273790633063,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20079,
+      "return_": -14.70887290040226,
+      "distance": 0.2941637197951669,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20080,
+      "return_": -8.863274701506707,
+      "distance": 0.17714737518411466,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20081,
+      "return_": -3.4947719877703887,
+      "distance": 0.06990965899789936,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20082,
+      "return_": -11.992059626203392,
+      "distance": 0.2400467874823015,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20083,
+      "return_": -8.570981108161256,
+      "distance": 0.17137203436562332,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20084,
+      "return_": -10.900625282914294,
+      "distance": 0.21801220569956356,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20085,
+      "return_": -11.660219757676868,
+      "distance": 0.23324050137691402,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20086,
+      "return_": -11.804688469648413,
+      "distance": 0.23605324274948644,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20087,
+      "return_": -15.919014128272881,
+      "distance": 0.3183412838004075,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20088,
+      "return_": -4.2364136722363,
+      "distance": 0.08484569242426383,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20089,
+      "return_": -12.629201729558526,
+      "distance": 0.25247547732497666,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20090,
+      "return_": -7.346676467454558,
+      "distance": 0.14693671775854283,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20091,
+      "return_": -15.593835350025701,
+      "distance": 0.3119059610733506,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20092,
+      "return_": -19.785910567239842,
+      "distance": 0.3957117281593401,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20093,
+      "return_": -18.81679653003953,
+      "distance": 0.3763686398437964,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20094,
+      "return_": -9.278267171341405,
+      "distance": 0.1856099680544597,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20095,
+      "return_": -12.418699225221719,
+      "distance": 0.24845735926242898,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20096,
+      "return_": -18.33822466082994,
+      "distance": 0.36677119297947713,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20097,
+      "return_": -1.8126612203139598,
+      "distance": 0.03623353224330243,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20098,
+      "return_": -12.18807522599969,
+      "distance": 0.24384791784557266,
+      "effort": 0.0,
+      "success": 0
+    },
+    {
+      "episode_seed": 20099,
+      "return_": -15.989977002965153,
+      "distance": 0.31975826941736346,
+      "effort": 0.0,
+      "success": 0
+    }
+  ]
+}
