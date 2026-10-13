@@ -72,11 +72,7 @@ The environment, actor and critic sizes, Gaussian policy with tanh transformatio
 
 ## AI use disclosure
 
-OpenAI ChatGPT assisted with the project design, source-code development, execution of the supplied experiments, result analysis, slide drafting, and narration preparation. The student must review, revise, understand, and verify the materials before submission. The supplied outputs were executed in the assistant's environment. They should not be described as independently run by the student unless the student reruns the code.
-
-## References
-
-See `REFERENCES.md`. Environment code and research sources retain their own licenses. This project contains an original implementation prepared with AI assistance. No claim of human-only authorship is made.
+OpenAI ChatGPT assisted with the project drafting, source-code development, code explanation, slide drafting, and narration preparation.
 
 ## Execution provenance and limitations
 
