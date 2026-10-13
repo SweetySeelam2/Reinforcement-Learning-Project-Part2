@@ -73,7 +73,3 @@ The environment, actor and critic sizes, Gaussian policy with tanh transformatio
 ## AI use disclosure
 
 OpenAI ChatGPT assisted with the project drafting, source-code development, code explanation, slide drafting, and narration preparation.
-git clone Reacher_PPO_Project.bundle restored_project
-```
-
-&nbsp;
