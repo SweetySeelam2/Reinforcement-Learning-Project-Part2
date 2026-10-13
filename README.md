@@ -73,22 +73,6 @@ The environment, actor and critic sizes, Gaussian policy with tanh transformatio
 ## AI use disclosure
 
 OpenAI ChatGPT assisted with the project drafting, source-code development, code explanation, slide drafting, and narration preparation.
-
-## Execution provenance and limitations
-
-The supplied full outputs were computed in the assistant's Linux CPU environment on October 5, 2026\. A separate pilot verified operation before full training. The pilot did not trigger any hyperparameter tuning. Full training retained the original configuration. Some independent runs executed concurrently to shorten total completion time. Per-run wall-clock times therefore reflect shared CPU load and should not be interpreted as a controlled comparison of computational efficiency. No physical robot or live deployment was tested.
-
-To verify the supplied summaries and a reloaded checkpoint without retraining:
-
-```sh
-python verify_outputs.py
-```
-
-&nbsp;
-
-The archive also includes a Git bundle. To restore the local commit history:
-
-```sh
 git clone Reacher_PPO_Project.bundle restored_project
 ```
 
